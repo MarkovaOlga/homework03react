@@ -6,7 +6,6 @@ import Button from "@mui/material/Button";
 import { Card, CardContent, IconButton, Typography } from "@mui/material";
 import DeleteIcon from '@mui/icons-material/Delete';
 
-
 // Задание 2: Список дел с Material UI
 
 // Цель: Разработать компонент TodoList для управления задачами: добавление, отображение, и удаление задач.
